@@ -1,0 +1,30 @@
+실무에서 바로 쓰는 엑셀 함수 16
+
+이 열여섯 개면 웬만한 표는 정리됩니다.
+
+01 SUM — 합계를 냅니다
+02 AVERAGE — 평균을 냅니다
+03 COUNTA — 빈칸 빼고 셉니다
+04 IF — 조건으로 나눕니다
+05 IFS — 조건을 여러 개
+06 SUMIF — 조건에 맞는 합계
+07 COUNTIF — 조건에 맞는 개수
+08 VLOOKUP — 세로로 찾습니다
+09 XLOOKUP — 방향 없이 찾습니다
+10 INDEX — 위치로 값을 꺼냅니다
+11 MATCH — 위치 번호를 찾습니다
+12 TEXT — 표시 형식을 바꿉니다
+13 LEFT — 왼쪽 몇 글자만
+14 TRIM — 군더더기 공백 제거
+15 ROUND — 자릿수로 반올림
+16 UNIQUE — 중복을 지웁니다
+
+이미 쓰고 있는 건 몇 개인가요?
+댓글에 개수만 남겨주세요.
+
+✏️ 지식에 밑줄 긋는 계정
+@economy.notes.mitjul.kr
+@economy.notes.mitjul.kr
+@economy.notes.mitjul.kr
+
+#지식 #엑셀 #직장인 #업무스킬 #꿀팁
